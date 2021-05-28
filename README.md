@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lkuessner
+- 👀 I’m interested in programming in general but especially in web development.
+- 🌱 I’m currently diving deep into Material UI because I think it's a pretty neat UI Framework to work with.
+- 💞️ I’m looking to collaborate on cool projects, whether or not it's open source or not.
+- 📫 How to reach me, just write me a simple message or contact me on Fiverr :-)
