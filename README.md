@@ -17,6 +17,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40" style="max-width: 100%;">
 &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="max-width: 100%;">&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" width="40" height="40" style="max-width: 100%;"></p>
+</br>
 
   <div align="center">
 <h2 dir="auto"><g-emoji class="g-emoji" alias="love_letter" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f48c.png">👉</g-emoji> How to get in touch</div>
