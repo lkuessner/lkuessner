@@ -23,5 +23,5 @@
 
 <div align="center">
 <h3 dir="auto"><g-emoji class="g-emoji" alias="envelope_with_arrow" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e9.png">📩</g-emoji> <a href="mailto:leon@kuessner.me">leon@kuessner.me</a></h3>
-<h3 dir="auto">Add me on Discord </a></h3>
+<h3 dir="auto"><a href="https://discord.com/users/662708221416439849">Add me on Discord </a>Add me on Discord </a></h3>
 </div>
