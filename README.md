@@ -1,7 +1,6 @@
 <div align="center"><h1>Hey there! 👋</h1></div>
 <div align="center">👨‍💻 I’m Leon</div>&nbsp;
 <div align="center">👀 Interested in programming in general but especially in web development.</div>&nbsp;
-<div align="center">🚀 I’m looking to collaborate on cool projects, whether or it's open source or not.</div>&nbsp;
 
 <div align="center"><h3><i>"This, is the world that [I] know."</i></h3></div>&nbsp;
 <p align="center" dir="auto">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;">&nbsp;  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> &nbsp;
